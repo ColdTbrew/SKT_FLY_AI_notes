@@ -6,3 +6,5 @@ data/
 # 특정 하위 폴더 및 파일 무시
 */data/*
 */data/shapes/*
+2주차/sea-animals-image-dataste
+*.gz
