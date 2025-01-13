@@ -1,10 +1,11 @@
 *.pdf
-*/*.pdf
-# 전체 data 폴더 무시
-data/
+*.gz
+*.zip
+*.txt
 
-# 특정 하위 폴더 및 파일 무시
+# 특정 디렉토리 무시
+data/
 */data/*
 */data/shapes/*
-2주차/sea-animals-image-dataste
-*.gz
+
+.DS_Store
