@@ -7,6 +7,6 @@
 data/
 */data/*
 */data/shapes/*
-
+.data/
 .DS_Store
 *.azcli
